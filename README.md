@@ -7,8 +7,8 @@ A comprehensive, production-grade **Project Management System** built with a uni
 ## 🔗 Quick Links & Submissions
 
 - **GitHub Repository**: `https://github.com/anshdeep-shr/Intern_tesk.git` *(Publicly Accessible)*
-- **Live Web Application**: `https://project-management-system-k6l7xwsuc-anshdeep-shrs-projects.vercel.app`
-- **Live Backend API**: `https://project-management-system-k6l7xwsuc-anshdeep-shrs-projects.vercel.app/api`
+- **Live Web Application**: `https://project-management-system-navy-ten.vercel.app`
+- **Live Backend API**: `https://project-management-system-navy-ten.vercel.app/api`
 - **Android APK / Mobile Build**: `https://expo.dev/artifacts/eas/pms-mobile-preview.apk`
 
 ---
