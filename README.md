@@ -6,7 +6,7 @@ A comprehensive, production-grade **Project Management System** built with a uni
 
 ## 🔗 Quick Links & Submissions
 
-- **GitHub Repository**: `https://github.com/your-username/project-management-system` *(Publicly Accessible)*
+- **GitHub Repository**: `https://github.com/anshdeep-shr/Intern_tesk.git` *(Publicly Accessible)*
 - **Live Web Application**: `https://projecthub-web.vercel.app`
 - **Live Backend API**: `https://projecthub-backend.onrender.com/api`
 - **Android APK / Mobile Build**: `https://expo.dev/artifacts/eas/pms-mobile-preview.apk`
